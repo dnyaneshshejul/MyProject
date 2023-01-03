@@ -8,6 +8,7 @@ public class TestProgram {
 		System.out.println("Test Pro");
 		
 		System.out.println("Test Pro person y ws2");
+		System.out.println("Test Pro person X ws1");
 	}
 
 }
